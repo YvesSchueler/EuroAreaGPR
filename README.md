@@ -8,7 +8,7 @@ Bondarenko, Kang, Lewis, Rottner and Schüler (2026).
 
 The latest release can be downloaded here:
 
-* **EA_GPR_Paper.xlsx** (latest version)
+* **[EA_GPR_Paper.xlsx](EA_GPR_Paper.xlsx)** (latest version)
 
 ## Available Indicators
 
@@ -35,5 +35,4 @@ Bondarenko, Y., Kang, N., Lewis, V., Rottner, M., and Schüler, Y. (2026): Geopo
 
 Yves Schüler
 Deutsche Bundesbank
-
 GitHub: https://github.com/YvesSchueler
